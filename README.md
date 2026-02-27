@@ -19,7 +19,7 @@ A sleek, responsive, and dynamic Single Page Application (SPA) built with React,
 
 ## 🚀 Demo
 Check out the live version here:  
-👉 **[Live Demo Link (Add your Vercel Link here)](#)** 
+👉 **[Live Demo Link](https://registration-wizard-bice.vercel.app/)** 
 
 ---
 
@@ -118,4 +118,3 @@ Check out the live version here:
 
 ---
 *Created for the Week 7 Project.*
-# registration-wizard
